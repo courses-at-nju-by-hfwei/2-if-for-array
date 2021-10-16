@@ -1,4 +1,4 @@
-# 1-types-io
+# 2-if-for-array
 
 Programming Exercises on `if-else`, `for-loop`, and `array`.
 
@@ -11,7 +11,7 @@ Programming Exercises on `if-else`, `for-loop`, and `array`.
 
 ## 如何做作业
 
-- 参考作业 `hello-c` 中的 `README.md`
+- 参考作业 `hello-c` 中的 [`README.md`](https://github.com/courses-at-nju-by-hfwei/hello-c)
 
 ---
 

@@ -2,9 +2,9 @@ TAR=$1
 echo "Running" $TAR "tests..."
 echo 
 
-cat testdata/$TAR.in | ./$TAR >reslut.out
+cat test/$TAR.in | ./$TAR >reslut.out
 output=$(cat reslut.out)
-expected_output=$(cat testdata/$TAR.out)
+expected_output=$(cat test/$TAR.out)
 
 if [ $? -eq 0 ] ; then
   echo "Pass: Program exited zero"
@@ -14,7 +14,7 @@ else
 fi
 
 echo
-diff -b testdata/$TAR.out reslut.out > /dev/null
+diff -b test/$TAR.out reslut.out > /dev/null
 
 
 if [ $? -eq 0 ] ; then

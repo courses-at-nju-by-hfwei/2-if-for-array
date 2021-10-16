@@ -1,5 +1,5 @@
 /**
- * File: sum.c
+ * File: light.c
  *
  * Author:
  * ID:

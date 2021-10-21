@@ -1,5 +1,5 @@
 /**
- * File: statistic.c
+ * File: factorial.c
  *
  * Author:
  * ID:
@@ -7,6 +7,6 @@
  */
 
 int main(){
-    
+
   return 0;
 }

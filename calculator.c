@@ -1,15 +1,12 @@
 /**
- * File: sum.c
+ * File: calculator.c
  *
  * Author:
  * ID:
  * Date:
  */
 
-#include <stdio.h>
-
 int main(){
 
-    return 0;
+  return 0;
 }
-

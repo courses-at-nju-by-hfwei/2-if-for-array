@@ -1,5 +1,5 @@
 /**
- * File: statistic.c
+ * File: money.c
  *
  * Author:
  * ID:
@@ -7,6 +7,6 @@
  */
 
 int main(){
-    
+
   return 0;
 }

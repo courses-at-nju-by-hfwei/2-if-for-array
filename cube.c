@@ -1,12 +1,12 @@
 /**
- * File: statistic.c
+ * File: cube.c
  *
  * Author:
  * ID:
  * Date:
  */
 
-int main(){
-    
+int main() {
+
   return 0;
 }

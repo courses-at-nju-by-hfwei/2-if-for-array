@@ -1,5 +1,5 @@
 /**
- * File: statistic.c
+ * File: statistics.c
  *
  * Author:
  * ID:

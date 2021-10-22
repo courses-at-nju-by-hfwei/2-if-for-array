@@ -1,6 +1,6 @@
 .PHONY:clean all
 #SRC=$(wildcard *.c)
-SRC=ascii.c change.c equation.c gray.c inverse.c pi.c plank.c time.c weekday.c
+SRC=cube.c factorial.c money.c once.c statistics.c calculator.c filp.c 
 EXF=$(SRC:%.c=%)
 FLAG= gcc  -Wall
 #
